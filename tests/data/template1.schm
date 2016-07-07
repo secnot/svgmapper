@@ -1,0 +1,23 @@
+{
+	"$schema": "http://json-schema.org/schema#",
+	"description": "Something something schema",
+	"type": "object",
+	"width": {
+		"type": "number",
+		"minimum": 100,
+		"maximum": 150,
+		"default": 100	
+	},
+
+	"height": {
+		"type": "number",
+		"minimum": 80,
+		"maximum": 90,
+		"default": 80,
+	},
+
+	"holes": {
+		"type": "integer",
+		"enum": [2, 3, 4]
+	}
+}
