@@ -9,7 +9,7 @@ setup(
     rotationg (90 degree)""",
     
     # Main homepage
-    url='https://gitlab.com/secnot/svgmapper/',
+    url='https://github.com/secnot/svgmapper/',
     
     # Extra info and author details
     author='SecNot',
